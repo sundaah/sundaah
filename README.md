@@ -6,15 +6,12 @@
 # 👋 안녕하세요! 
 
 저는 **반도체·전자장비 분야에서 9년 이상의 경력**을 보유한 엔지니어로,  
-회로 설계, 품질보증, 고객 기술지원 경험을 바탕으로 현재는 **FAE(Field Application Engineer) 및 기술영업** 분야에서 새로운 도전을 준비하고 있습니다.  
-
-기술적 이해와 고객사 대응 역량을 겸비하여,  
-**기술과 사업을 연결하는 브리지 역할**을 목표로 합니다.  
-장기적으로는 **피지컬 AI 및 휴머노이드 로봇 사업**으로 나아가기 위해 AI 시스템 반도체 설계 전문 교육을 이수 중입니다.  
-
+설계, 품질보증, 고객 기술지원 경험을 바탕으로 기술적 이해와 고객사 대응 역량을 겸비하여,
+**FAE(Field Application Engineer) 및 기술영업** 부서에서 **기술과 사업을 연결하는 브리지 역할**을 목표로 합니다.  
 ---
 
-## 🏢 경력
+## 🏢경력 요약
+- 총 경력: **9년 1개월**   
 
 ### ㈜무한테크 (2013.12 ~ 2016.02, 2년 3개월)  
 **전자 · 기술생산직 사원/팀원**  
@@ -56,37 +53,21 @@
   대한상공회의소 서울기술교육센터 (2025.07 ~ 진행 중)  
   - AI 반도체 구조 및 설계 이론 학습  
   - Verilog 기반 SoC 및 AI 가속기 설계 실습  
-  - FPGA 활용 프로토타입 제작  
+  - FPGA 활용 프로토타입 제작
+  - ARM architecture 
 
 ---
 
 ## 🛠 보유 기술 역량
-- **회로 설계 & 하드웨어**: Interface Board, Test Jig, LED Driver, 전장 BOX 설계  
-- **반도체 및 품질보증**: 장비 품질검증, 고객 Audit 대응, 신사업 장비 개발·검토  
-- **임베디드 시스템 & FPGA**: STM32, Jetson Nano, Raspberry Pi, Verilog/SystemVerilog, Vivado  
-- **신호처리 & AI**: FFT Fixed-point 구현, PyTorch, OpenCV, Edge AI 응용  
-- **FAE/기술영업 역량**: 고객사 기술 지원, PoC 제작, 프로젝트 관리, 글로벌 고객사 대응  
+- Tech Stack 참조.
 
 ---
-
-## 📌 경력 요약
-- 총 경력: **9년 1개월**  
-- 주요 분야: **반도체 장비 개발, 품질보증, 회로 설계, 고객사 대응 및 기술 지원**  
-- 핵심 역량: **전장부품 및 반도체 검사장비 설계/검증, 고객사 Audit 및 기술지원, 신사업 장비 개발 및 프로젝트 관리, 풍부한 CS 경험**  
-
----
-
-## 🎯 커리어 비전
-- **단기**: FAE·기술영업 전문가로 성장  
-- **중기**: AI + 반도체 + 로보틱스 융합 역량 확보  
-- **장기**: 피지컬 AI & 휴머노이드 로봇 사업 창업  
 
 ---
 
 ## 📫 Contact
-- GitHub: [https://github.com/sundaah](https://github.com/sundaah)  
-- Email: (이메일 추가)  
-- LinkedIn: (있으면 추가)  
+- GitHub: [https://github.com/sundaah](https://github.com/sundaah)    
+- LinkedIn: [링크](https://www.linkedin.com/in/%ED%99%98-%EC%9E%A5-63a7a07a/)
 
 ## 🚀 Tech Stack 🚀
 
