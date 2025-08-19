@@ -79,7 +79,8 @@ FAE(Field Application Engineer) 및 기술영업 부서에서 기술과 사업�
   <tr>
     <td align="center"><strong>MCU</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/ATmega128-E34F26?style=for-the-badge&logo=microchip-technology&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AVR-E34F26?style=for-the-badge&logo=microchip-technology&logoColor=white"/>
+      <img src="https://img.shields.io/badge/STM-E34F26?style=for-the-badge&logo=microchip-technology&logoColor=blue"/>
     </td>
   </tr>
   <tr>
