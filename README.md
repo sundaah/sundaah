@@ -3,11 +3,10 @@
 </div>
 
 <br>
-# 👋 안녕하세요! 
-
-저는 **반도체·전자장비 분야에서 9년 이상의 경력**을 보유한 엔지니어로,  
-설계, 품질보증, 고객 기술지원 경험을 바탕으로 기술적 이해와 고객사 대응 역량을 겸비하여,
-**FAE(Field Application Engineer) 및 기술영업** 부서에서 **기술과 사업을 연결하는 브리지 역할**을 목표로 합니다.  
+# 👋 안녕하세요!  
+**저는 반도체·전자장비 분야에서 9년 이상의 경력을 보유한 엔지니어로,  
+설계, 품질보증, 고객 기술지원 경험을 바탕으로 기술적 이해와 고객사 대응 역량을 겸비하여,  
+FAE(Field Application Engineer) 및 기술영업 부서에서 기술과 사업을 연결하는 브리지 역할을 목표로 합니다.**  
 ---
 
 ## 🏢경력 요약
@@ -50,18 +49,11 @@
 
 ## 📚 교육 및 학습
 - **AI 시스템 반도체 설계 교육 (이수 중)**  
-  대한상공회의소 서울기술교육센터 (2025.07 ~ 진행 중)  
+  대한상공회의소 서울기술교육센터 (2025.03 ~ 진행 중)  
   - AI 반도체 구조 및 설계 이론 학습  
   - Verilog 기반 SoC 및 AI 가속기 설계 실습  
   - FPGA 활용 프로토타입 제작
   - ARM architecture 
-
----
-
-## 🛠 보유 기술 역량
-- Tech Stack 참조.
-
----
 
 ---
 
@@ -148,14 +140,6 @@
 </table>
 
 <br>
-
-<div style="text-align: left;">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-<div style="text-align: left;"> 
-    <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="> </a>
-    <a href=mailto:ssgjh12@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssgjh12@gmail.com"> </a>
-</div>  
-</div>
 
 <div style="text-align: left;"> 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
