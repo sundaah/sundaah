@@ -147,12 +147,29 @@ FAE(Field Application Engineer) 및 기술영업 부서에서 기술과 사업�
 
 ---
 
-## 🏅 Stats
+## 📊 Tech Stack & Stats  
 
-Verilog        ████████████████░░ 30.0%
-C              ████████░░░░░░░░░ 14.0%
-Python         ████████░░░░░░░░░ 14.0%
-SystemVerilog  ████████░░░░░░░░░ 14.0%
-Markdown       ████████░░░░░░░░░ 14.0%
-Go             ████████░░░░░░░░░ 14.0%
+### 🖥️ Languages  
+<div align="center">
+
+![Verilog](https://img.shields.io/badge/Verilog-30%25-blue?style=for-the-badge&logo=verilog&logoColor=white)
+![C](https://img.shields.io/badge/C-30%25-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-14%25-orange?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-14%25-black?style=for-the-badge&logo=markdown&logoColor=white)
+![Go](https://img.shields.io/badge/Go-14%25-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+</div>
+
+---
+
+### 📈 GitHub Analytics  
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubID&layout=compact&theme=radical&langs_count=6&hide_border=true)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubID&show_icons=true&theme=radical&hide_border=true)
+
+</div>
 
