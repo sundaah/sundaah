@@ -1,8 +1,9 @@
-<div align= "center">
+<div align="center">
     <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&text=미래에%20도전하는%20Hwan&animation=twinkling&fontColor=000000&fontSize=70" />
 </div>
 
 <br>
+
 # 👋 안녕하세요!  
 
 **저는 반도체·전자장비 분야에서 9년 이상의 경력을 보유한 엔지니어로,  
@@ -11,7 +12,7 @@ FAE(Field Application Engineer) 및 기술영업 부서에서 기술과 사업�
 
 ---
 
-## 🏢경력 요약
+## 🏢 경력 요약
 - 총 경력: **9년 1개월**   
 
 ### ㈜무한테크 (2013.12 ~ 2016.02, 2년 3개월)  
@@ -32,7 +33,7 @@ FAE(Field Application Engineer) 및 기술영업 부서에서 기술과 사업�
 
 ---
 
-### (주)고려이엠씨 (2020.11 ~ 2021.11, 1년 1개월)  
+### ㈜고려이엠씨 (2020.11 ~ 2021.11, 1년 1개월)  
 **설계개발팀 주임**  
 - 전장 BOX 장치 설계 및 AutoCAD 기반 기구물 2D 설계  
 - 신사업 장비 품질 보증팀 소속 트러블슈팅 및 브리핑 진행  
@@ -54,7 +55,7 @@ FAE(Field Application Engineer) 및 기술영업 부서에서 기술과 사업�
   대한상공회의소 서울기술교육센터 (2025.03 ~ 진행 중)  
   - AI 반도체 구조 및 설계 이론 학습  
   - Verilog 기반 SoC 및 AI 가속기 설계 실습  
-  - FPGA 활용 프로토타입 제작
+  - FPGA 활용 프로토타입 제작  
   - ARM architecture 
 
 ---
@@ -62,6 +63,8 @@ FAE(Field Application Engineer) 및 기술영업 부서에서 기술과 사업�
 ## 📫 Contact
 - GitHub: [https://github.com/sundaah](https://github.com/sundaah)    
 - LinkedIn: [링크](https://www.linkedin.com/in/%ED%99%98-%EC%9E%A5-63a7a07a/)
+
+---
 
 ## 🚀 Tech Stack 🚀
 
@@ -142,12 +145,14 @@ FAE(Field Application Engineer) 및 기술영업 부서에서 기술과 사업�
   </tr>
 </table>
 
-<br>
+---
 
-<div style="text-align: left;"> 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-<div style="text-align: left;"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=Alex&custom_title=Alex's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/>
-</div> 
-</div>
+## 🏅 Stats
+
+```text
+Verilog        ████████████████▒░ 30.0%
+C              ████████░░░░░░░░░ 14.0%
+Python         ████████░░░░░░░░░ 14.0%
+SystemVerilog  ████████░░░░░░░░░ 14.0%
+Markdown       ████████░░░░░░░░░ 14.0%
+Go             ████████░░░░░░░░░ 14.0%
