@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&text=미래에%20도전하는%20Hwan&animation=twinkling&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&text=미래에%20도전하는%20장환&animation=twinkling&fontColor=000000&fontSize=70" />
 </div>
 
 <br>
