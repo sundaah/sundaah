@@ -2,6 +2,7 @@
 
 ![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Janghwan%20%7C%20Future-Driven%20FAE,Sales&fontSize=50)
 </div>
+
 ### 안녕하세요! 장환입니다 👋
  
 **저는 반도체·전자장비 분야에서 9년 이상의 경력을 보유한 엔지니어로,  
