@@ -45,21 +45,7 @@ FAE(Field Application Engineer) 및 기술영업 부서에서 기술과 사업�
 - Interface Board, Display Test Jig Board, LED Driver 회로 설계  
 - Pattern Generator 검사 장비 기술지원 및 프로젝트 관리  
 - Aging System Project 검증 및 제작 참여  
-- 신규 시스템 및 불량 품목 고객사 기술 대응  
-
----
-
-## 📚 교육 및 학습
-- **어려운 회로 공식! 눈으로 하는 반도체 회로(CHIP)설계(이수)**
-  코멘토(2023.04 ~ 2023.05)
-  
-- **AI 시스템 반도체 설계 교육 (이수 중)**  
-  대한상공회의소 서울기술교육센터 (2025.03 ~ 진행 중)  
-  - AI 반도체 구조 및 설계 이론 학습  
-  - Verilog 기반 SoC 및 AI 가속기 설계 실습  
-  - FPGA 활용 프로토타입 제작  
-  - ARM architecture 
-
+-가
 ---
 
 ## 📫 Contact
