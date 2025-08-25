@@ -3,11 +3,6 @@
 ![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Janghwan%20%7C%20Future-Driven%20FAE,Sales&fontSize=50)
 
 ### 안녕하세요! 장환입니다 👋
-
-[![Janghwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sundaah&show_icons=true&theme=buefy&count_private=true)](https://github.com/sundaah)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sundaah&layout=compact&theme=buefy)](https://github.com/sundaah)
-
 </div>
  
 **저는 반도체·전자장비 분야에서 9년 이상의 경력을 보유한 엔지니어로,  
